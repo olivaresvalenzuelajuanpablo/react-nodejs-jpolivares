@@ -5,6 +5,9 @@ import { UserCard } from './UserCard';
 import './UserCardList.scss';
 
 export const UserCardList: React.FunctionComponent = () => {
+  React.useEffect(() => {
+  }, []);
+
   return (
     <div className="UserCardList-container">
       <ul>
