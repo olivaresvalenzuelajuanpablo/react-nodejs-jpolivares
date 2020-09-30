@@ -1,0 +1,19 @@
+.UserCard-container {
+  border: 1px solid black;
+  height: 200px;
+  width: 225px;
+
+  p {
+    font-size: 14px;
+    margin: 0px 0px;
+    padding-left: 24px;
+  }
+
+  .name {
+    margin-top: 24px;
+  }
+
+  .age {
+    margin-top: 4px;;
+  }
+}
